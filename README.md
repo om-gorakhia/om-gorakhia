@@ -21,26 +21,23 @@ I help businesses make smarter decisions through data. My work focuses on:
 
 ## 🔧 Tools I Work With
 
-**Programming & Development:**
-Python, R, SQL, PostgreSQL, JavaScript, JSON Processing, REST APIs, FastAPI, Streamlit, ETL Architectures, Git/GitHub
+**Languages & Dev:**
+Python, R, SQL, PostgreSQL, JavaScript, FastAPI, Streamlit, REST APIs, Git/GitHub
 
-**Data Science & AI:**
-Large Language Models (LLMs), Multi-Agent AI Orchestration, Agentic AI Architectures, Natural Language Processing (NLP), Prompt Engineering, Hugging Face, Sentence Transformers, Semantic Analysis, Transfer Learning, Sentiment Analysis, TensorFlow, Generative AI (GenAI)
+**AI & Data Science:**
+LLMs, Agentic AI, Multi-Agent Orchestration, NLP, Prompt Engineering, Hugging Face, Sentence Transformers, TensorFlow, Generative AI
 
-**Machine Learning & Modeling:**
-Statistical Modeling, Predictive Analytics, Regression Analysis (OLS, 2SLS, Panel/Fixed-Effects), L1/L2 Regularization, XGBoost, K-Means Clustering, A/B Testing, Hypothesis Testing, Probabilistic Scoring, Data Mining, Data Segmentation, SPSS
+**ML & Analytics:**
+XGBoost, Regression (OLS, 2SLS, Panel), L1/L2 Regularization, K-Means Clustering, A/B Testing, Probabilistic Scoring, Statistical Modeling, SPSS
 
 **Quantitative Finance:**
-Markowitz Mean-Variance Optimization, Kelly Criterion, Value-at-Risk (VaR), Expected Shortfall, Sharpe / Sortino / Calmar Ratios, SciPy Linear Programming, Covariance Shrinkage, Backtesting (LOOCV), Technical Indicators (EMA, RSI, ATR, Stochastic)
+Mean-Variance Optimization, Kelly Criterion, VaR, Sharpe/Sortino/Calmar Ratios, Backtesting, Technical Indicators (EMA, RSI, ATR)
 
-**Business Intelligence & Visualization:**
-Power BI, Microsoft Excel, Plotly, Data Dashboards, Wireframes, UML Diagrams, Executive Reporting
+**BI & Visualization:**
+Power BI, Plotly, Excel, Executive Dashboards, UML Diagrams
 
-**Platform & Automation:**
-N8N, Microsoft Power Apps, Microsoft Power Automate, No-Code Development, Data Pipeline Automation, Workflow Optimization, Design Thinking
-
-**Languages:**
-English, Hindi
+**Automation & Platforms:**
+N8N, Power Automate, Power Apps, ETL Pipelines, No-Code Workflows
 
 ## 📫 Let's Connect!
 
